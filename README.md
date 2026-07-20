@@ -37,6 +37,7 @@
 - зависимости из `requirements-translate.txt`
 
 ## Установка
+Закинуть `translate_ftb_quests.py` и `requirements-translate.txt` в `.\MineColonies - Create & Conquer\scripts`
 
 Из корня папки сборки:
 
